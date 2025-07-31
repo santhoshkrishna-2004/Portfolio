@@ -103,5 +103,5 @@ export const mockPersonalInfo = {
   subtitle: 'Ideas. Intelligence. Scale.',
   rotatingTitles: ['AI & ML Engineer', 'Full-Stack Developer', 'Problem Solver'],
   bio: `I'm a passionate Full-Stack Developer and AI & ML Engineer with hands-on experience in building smart, scalable web applications and machine learning systems. I strive to solve real-world problems using a combination of AI, data, and web technologies. My goal is to work in a top-tier multinational company and deliver impact-driven solutions.`,
-  profileImage: 'frontend/src/data/Profile.png'
+  profileImage: 'frontend/public/Profile.png'
 };
