@@ -98,7 +98,7 @@ export const mockContactInfo = {
 };
 
 export const mockPersonalInfo = {
-  name: 'NENAVATH SANTHOSH NAYAK',
+  name: 'NENAVATH SANTHOSH',
   title: 'Full-Stack Developer, AI & ML Engineer',
   subtitle: 'Ideas. Intelligence. Scale.',
   rotatingTitles: ['AI & ML Engineer', 'Full-Stack Developer', 'Problem Solver'],
